@@ -43,9 +43,9 @@ export default {
           show: true,
           type: "category",
           data: [
-            "Github Star数：\n269",
-            "码云关注者：\n1508",
-            "掘金关注者：\n234"
+            "Github Star数：\n3",
+            "码云关注者：\n4",
+            "掘金关注者：\n3"
           ],
           axisLine: {
             lineStyle: {
@@ -93,7 +93,7 @@ export default {
             // 图类型
             type: "bar",
             // 数据
-            data: [269, 1508, 234],
+            data: [3, 4, 3],
             // 文本
             label: {
               show: true,
@@ -133,9 +133,9 @@ export default {
           show: true,
           type: "category",
           data: [
-            "Github Star数：\n269",
-            "码云关注者：\n1508",
-            "掘金关注者：\n234"
+            "Github Star数：\n3",
+            "码云关注者：\n4",
+            "掘金关注者：\n3"
           ],
           axisLine: {
             lineStyle: {
@@ -183,7 +183,7 @@ export default {
             // 图类型
             type: "bar",
             // 数据
-            data: [269, 1508, 234],
+            data: [3, 4, 3],
             // 文本
             label: {
               show: true,
