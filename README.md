@@ -1,6 +1,6 @@
 # resume
 # 我的简历
-
+[简历](http://yuesheng9527.gitee.io/resume)http://yuesheng9527.gitee.io/resume
 > A Vue.js project
 
 ## Build Setup
