@@ -21,7 +21,7 @@ export default {
         renderer: "svg"
       });
       if(this.$store.state.threejs){
-        myChart.setOption({
+        myChart.setOption({ 
         // 标题
         title: {
           // 标题文本
